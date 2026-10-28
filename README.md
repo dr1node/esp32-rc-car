@@ -104,12 +104,12 @@ esp32-rc-car/
 ├── src/
 │   └── main.cpp
 └── images/
-    └── rc-car.jpg   # Add your own project photo here
+    └── rc3.jpeg   # Add your own project photo here
 ```
 
 ## Project Image
 
-Add your own photo of the RC car as `images/rc-car.jpg`. Use an image of the actual project as the main project image. If you add external reference images, clearly label them as references and check their usage permissions.
+Add your own photo of the RC car as `images/rc.jpeg`. Use an image of the actual project as the main project image. If you add external reference images, clearly label them as references and check their usage permissions.
 
 ## Project Status
 
